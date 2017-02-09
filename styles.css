@@ -60,6 +60,9 @@ a:hover {
 header {
   text-align: center;
   padding-top: 60px;
+  background: url('35_opt.jpg') no-repeat top center ;
+background-size: cover;
+overflow: hidden;
 }
 header {
   line-height: 1.5;
@@ -205,7 +208,7 @@ a.social:hover {
 =====================*/
 
 .wide{
-	 margin: 30px auto;
+  margin: 30px auto;
   padding: 20px 40px 40px;
   max-width: 900px;
   text-align: left;
